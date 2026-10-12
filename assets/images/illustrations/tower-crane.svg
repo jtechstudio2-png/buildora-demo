@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke-linecap="square">
+  <!-- Original Buildora illustration: high-rise under construction with tower crane -->
+  <g stroke="#f4a825" stroke-width="2" opacity=".9">
+    <path d="M300 600V170h170v430"/>
+    <path d="M300 170l85-40 85 40"/>
+    <path d="M520 600V250h110v350"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity=".22" stroke-width="1">
+    <path d="M300 210h170M300 250h170M300 290h170M300 330h170M300 370h170M300 410h170M300 450h170M300 490h170M300 530h170M300 570h170"/>
+    <path d="M342 170v430M385 130v470M428 170v430"/>
+    <path d="M520 290h110M520 330h110M520 370h110M520 410h110M520 450h110M520 490h110M520 530h110M520 570h110M575 250v350"/>
+    <path d="M140 600V420h110v180M140 460h110M140 500h110M140 540h110M195 420v180"/>
+  </g>
+  <!-- tower crane -->
+  <g stroke="#f4a825" stroke-width="2">
+    <path d="M610 600V60M630 600V60"/>
+    <path d="M610 100l20-20M610 140l20-20M610 180l20-20M610 220l20-20M610 260l20-20M610 300l20-20M610 340l20-20M610 380l20-20M610 420l20-20M610 460l20-20M610 500l20-20M610 540l20-20M610 580l20-20" stroke-opacity=".6"/>
+    <path d="M360 60h420M360 80h420"/>
+    <path d="M380 60l20 20 20-20 20 20 20-20 20 20 20-20 20 20 20-20 20 20 20-20 20 20 20-20M650 80l20-20 20 20 20-20 20 20 20-20 20 20 20-20" stroke-opacity=".6"/>
+    <path d="M620 60V20M620 20L380 60M620 20l160 40"/>
+    <path d="M730 80v40h40V80"/>
+    <path d="M470 80v170" stroke-dasharray="6 6"/>
+    <path d="M455 250h30v18h-30z"/>
+  </g>
+  <path d="M0 600h800" stroke="#ffffff" stroke-opacity=".35" stroke-width="2"/>
+</svg>

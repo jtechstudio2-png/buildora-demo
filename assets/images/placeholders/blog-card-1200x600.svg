@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <!-- Buildora placeholder: Article card, 1200x600. Replace with a licensed image of the same proportions. -->
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d3550"/><stop offset=".6" stop-color="#0d1b2a"/><stop offset="1" stop-color="#081018"/></linearGradient>
+  <pattern id="p" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0v80" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern></defs>
+  <rect width="1200" height="600" fill="url(#g)"/><rect width="1200" height="600" fill="url(#p)"/>
+  <path d="M0 0L1200 600M1200 0L0 600" stroke="#f4a825" stroke-opacity=".18" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="598" fill="none" stroke="#f4a825" stroke-opacity=".5" stroke-width="2" stroke-dasharray="12 10"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#ffffff">
+    <text x="600.0" y="291.6" font-size="42" font-weight="700" fill="#f4a825">1200 × 600</text>
+    <text x="600.0" y="337.8" font-size="18" fill-opacity=".75" letter-spacing="2">ARTICLE CARD</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Original Buildora illustration: mid-rise residential with balconies -->
+  <g stroke="#f4a825" stroke-width="2">
+    <path d="M120 600V180h260v420"/>
+    <path d="M420 600V260h260v340"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity=".24" stroke-width="1">
+    <path d="M120 230h260M120 280h260M120 330h260M120 380h260M120 430h260M120 480h260M120 530h260"/>
+    <path d="M420 310h260M420 360h260M420 410h260M420 460h260M420 510h260M420 560h260"/>
+    <path d="M185 180v420M250 180v420M315 180v420M485 260v340M550 260v340M615 260v340"/>
+  </g>
+  <g stroke="#f4a825" stroke-opacity=".6" stroke-width="1.5">
+    <path d="M110 230h10M110 280h10M110 330h10M110 380h10M110 430h10M110 480h10M110 530h10"/>
+    <path d="M680 310h12M680 360h12M680 410h12M680 460h12M680 510h12M680 560h12"/>
+    <path d="M100 600h600"/>
+    <path d="M40 600v-50M40 550c-20 0-20-30 0-30s20 30 0 30M760 600v-60M760 540c-24 0-24-36 0-36s24 36 0 36"/>
+  </g>
+  <path d="M0 600h800" stroke="#ffffff" stroke-opacity=".35" stroke-width="2"/>
+</svg>

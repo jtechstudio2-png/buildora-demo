@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Original Buildora illustration: curved-facade hotel -->
+  <g stroke="#f4a825" stroke-width="2">
+    <path d="M240 600V160c80-40 240-40 320 0v440"/>
+    <path d="M140 600V470h520v130"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity=".24" stroke-width="1">
+    <path d="M240 200c80-36 240-36 320 0M240 240c80-36 240-36 320 0M240 280c80-36 240-36 320 0M240 320c80-36 240-36 320 0M240 360c80-36 240-36 320 0M240 400c80-36 240-36 320 0M240 440c80-36 240-36 320 0"/>
+    <path d="M300 140v330M360 132v338M420 130v340M480 132v338M520 136v334"/>
+    <path d="M140 510h520M140 550h520"/>
+  </g>
+  <g stroke="#f4a825" stroke-opacity=".6" stroke-width="1.5">
+    <path d="M360 600v-50h80v50"/>
+    <path d="M60 600c20-60 40-90 60-90M90 520c-30 0-40 10-50 20M120 510c10-20 30-25 45-20"/>
+    <path d="M740 600c-20-60-40-90-60-90M710 520c30 0 40 10 50 20"/>
+  </g>
+  <path d="M0 600h800" stroke="#ffffff" stroke-opacity=".35" stroke-width="2"/>
+</svg>

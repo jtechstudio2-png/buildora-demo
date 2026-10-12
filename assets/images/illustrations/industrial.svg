@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Original Buildora illustration: logistics warehouse with portal frame -->
+  <g stroke="#f4a825" stroke-width="2">
+    <path d="M60 600V340l340-90 340 90v260"/>
+    <path d="M60 340h680"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity=".24" stroke-width="1">
+    <path d="M145 600V318M230 600V295M315 600V273M400 600V250M485 600V273M570 600V295M655 600V318"/>
+    <path d="M60 380h680"/>
+    <path d="M100 600v-120h70v120M210 600v-120h70v120M320 600v-120h70v120M430 600v-120h70v120M540 600v-120h70v120"/>
+    <path d="M100 520h70M210 520h70M320 520h70M430 520h70M540 520h70" stroke-dasharray="4 6"/>
+  </g>
+  <g stroke="#f4a825" stroke-opacity=".6" stroke-width="1.5">
+    <path d="M650 600v-60h70v60M660 540v-20h50v20"/>
+    <circle cx="668" cy="600" r="0"/>
+  </g>
+  <path d="M0 600h800" stroke="#ffffff" stroke-opacity=".35" stroke-width="2"/>
+</svg>

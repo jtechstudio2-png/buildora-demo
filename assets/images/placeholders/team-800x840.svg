@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="840" viewBox="0 0 800 840">
+  <!-- Buildora placeholder: Team portrait, 800x840. Replace with a licensed image of the same proportions. -->
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d3550"/><stop offset=".6" stop-color="#0d1b2a"/><stop offset="1" stop-color="#081018"/></linearGradient>
+  <pattern id="p" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0v80" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern></defs>
+  <rect width="800" height="840" fill="url(#g)"/><rect width="800" height="840" fill="url(#p)"/>
+  <path d="M0 0L800 840M800 0L0 840" stroke="#f4a825" stroke-opacity=".18" stroke-width="2"/>
+  <rect x="1" y="1" width="798" height="838" fill="none" stroke="#f4a825" stroke-opacity=".5" stroke-width="2" stroke-dasharray="12 10"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#ffffff">
+    <text x="400.0" y="408.6" font-size="57" font-weight="700" fill="#f4a825">800 × 840</text>
+    <text x="400.0" y="471.3" font-size="25" fill-opacity=".75" letter-spacing="2">TEAM PORTRAIT</text>
+  </g>
+</svg>

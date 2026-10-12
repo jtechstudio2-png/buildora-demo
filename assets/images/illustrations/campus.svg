@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Original Buildora illustration: low-rise office campus -->
+  <g stroke="#f4a825" stroke-width="2">
+    <path d="M60 600V320h220v280"/>
+    <path d="M300 600V250h240v350"/>
+    <path d="M560 600V300h190v300"/>
+    <path d="M280 360h20M540 380h20" stroke-opacity=".7"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity=".22" stroke-width="1">
+    <path d="M60 360h220M60 400h220M60 440h220M60 480h220M60 520h220M60 560h220M115 320v280M170 320v280M225 320v280"/>
+    <path d="M300 290h240M300 330h240M300 370h240M300 410h240M300 450h240M300 490h240M300 530h240M300 570h240M360 250v350M420 250v350M480 250v350"/>
+    <path d="M560 340h190M560 380h190M560 420h190M560 460h190M560 500h190M560 540h190M608 300v300M655 300v300M703 300v300"/>
+    <path d="M300 250l30-30h180l30 30"/>
+  </g>
+  <g stroke="#f4a825" stroke-opacity=".55" stroke-width="1.5">
+    <circle cx="40" cy="570" r="22"/><path d="M40 592v8"/>
+    <circle cx="772" cy="566" r="26"/><path d="M772 592v8"/>
+  </g>
+  <path d="M0 600h800" stroke="#ffffff" stroke-opacity=".35" stroke-width="2"/>
+</svg>
